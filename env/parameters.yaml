@@ -1,0 +1,10 @@
+adminUser:
+  password: local:clujenkinsx/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jackmanju@outlook.com
+  token: local:clujenkinsx/pipelineUser:token
+  username: parmar-gaurav
+prow:
+  hmacToken: local:clujenkinsx/prow:hmacToken
